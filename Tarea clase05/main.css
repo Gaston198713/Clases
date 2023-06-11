@@ -1,0 +1,84 @@
+*{
+    box-sizing:border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+h1{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.form-register h4{
+    font-size: 22px;
+    text-align: center;
+    padding: 20px;
+    text-decoration: underline;
+    
+    
+}
+
+label{
+    margin-left: 450px;
+    padding: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    
+}
+
+input{
+    color: black;
+}
+
+.form-register{
+    background: #24303c;
+    border-radius: 15px;
+    margin: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background: #24303c;
+    color: white;
+    
+
+    
+}
+
+.controls{
+    width: 400px;
+    padding: 10px;
+    margin-left: 300px ;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    border-left: 3px solid white;
+    border-right: 3px solid white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: #24303c;
+}
+
+.botons:hover{
+    background-color: aqua;
+}
+
+.botons{
+    box-sizing: border-box;
+    margin-left:200px;
+    border: 3px solid rgb(31, 163, 250);
+    border-radius: 15px;
+    padding: 10px;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 2px rgb(31, 163, 250);
+    transition: all 0.3s ease;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.genre1{
+    margin-left: 450px;
+}
+.genre2{
+    margin-left: 20px;
+}
